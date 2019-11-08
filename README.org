@@ -1,0 +1,40 @@
+* IAPNet
+ #+BEGIN_CENTER An awesome IAP project with different implements. #+END_CENTER
+** About the Project
+*** Introduction
+    In Application Programming (IAP) is a way to program computer logic devices while they are being operated by the system.
+    IAPNet implements different communication techniques for STM32F10x, including Field bus, wire, and wireless communications.
+*** Built With
+    - Embedded-C
+*** Project Structure
+    - doc: github page
+    - note: wiki
+    - board: PCB board (EAGLE)
+    - software:
+      - server
+      - client
+    - hardware: embedded system code for STM32
+      - hello-world
+      - sample-code
+        - filed-bus
+        - wire-net
+        - wireless-net
+      - IAPNet
+** Getting Started
+*** Prerequisites
+    1. Keil MDK
+    2. Gnu
+*** Compile
+*** Run
+** Usage
+** Roadmap
+   - [ ] IAP demo
+   - [ ] IAP-RS232/485-Net
+   - [ ] IAP-Bluetooth-Net (nRF52832)
+   - [ ] IAP-WiFi-Net (ESP8266)
+   - [ ] IAP-Ethernet-Net (CH395Q)
+   - [ ] IAP-Cellular-Net (SIM800C)
+** Contributing
+** License
+** Contact
+** Acknowledgements
